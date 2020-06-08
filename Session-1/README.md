@@ -16,18 +16,14 @@ $ pip3 install scikit-learn
 2. Resize the image
 3. Grayscale the image
 4. Perform affine transformations - Image Cropping, scaling, rotation 
-
 (ref: https://setosa.io/ev/image-kernels/)
-
 5. Color spacing (only red component)
 6. **Mini project 1** - Live sketching 
     1.  Take a video (or use webcam)
     2.  Read the video frames
     3. Process each frame 
     4. Apply different kernels on image - sharpening, blurring, edge detection, binarization
-
-*Show your creativity, folks !*
-
+    *Show your creativity, folks !*
     5. Write frame in the output video and display the frame for your reference
     6. Upload the output video on drive
 
